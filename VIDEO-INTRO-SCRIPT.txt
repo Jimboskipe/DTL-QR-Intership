@@ -1,0 +1,18 @@
+VIDEO INTRO — DTL Quantitative Researcher Internship (60–90 seconds)
+
+[0:00–0:15] Who
+Hi, I’m James Doyle — Weston, Wisconsin. Army veteran, Information Technologies student at SNHU, expected around 2029. Applying to Dynamic Technology Lab’s Quantitative Researcher Internship — Remote.
+
+[0:15–0:40] Proof
+I’ve spent years in markets; this last year I tightened into rules, journaling, and Python research. The portfolio shows three things: journal metrics, a small alpha sample plus a rules backtest, and a kill-criteria research log so dead ideas stay dead.
+
+[0:40–1:00] Why DTL / honesty
+I know the role often prefers Master’s or PhD candidates. I’m asking for the undergrad exceptional-performance pathway — remote research under senior guidance while I finish my degree. I’m not inventing institutional QR tenure.
+
+[1:00–1:10] Close
+Links to the site and English resume are in the application. Thanks for your time.
+
+NOTES
+- Speak to camera; no slides required
+- Host Unlisted YouTube or Loom; paste URL into index.html later
+- Apply at dytechlab.com/careers/apply — select Remote
